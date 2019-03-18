@@ -1,0 +1,16 @@
+PODS:
+  - DPCarouselCollectionViewFlowLayout (0.1.0)
+
+DEPENDENCIES:
+  - DPCarouselCollectionViewFlowLayout (from `../`)
+
+EXTERNAL SOURCES:
+  DPCarouselCollectionViewFlowLayout:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  DPCarouselCollectionViewFlowLayout: dd3967d64279702a5e59cb972b29269fdb31c32e
+
+PODFILE CHECKSUM: cff22ac438a0cf22f97d50dba730038d8bbe8be2
+
+COCOAPODS: 1.6.0

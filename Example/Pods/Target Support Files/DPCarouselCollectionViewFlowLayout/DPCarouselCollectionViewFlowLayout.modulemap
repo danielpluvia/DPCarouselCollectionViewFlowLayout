@@ -1,0 +1,6 @@
+framework module DPCarouselCollectionViewFlowLayout {
+  umbrella header "DPCarouselCollectionViewFlowLayout-umbrella.h"
+
+  export *
+  module * { export * }
+}
