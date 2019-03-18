@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'DPCarouselCollectionViewFlowLayout_Example' do
+  pod 'DPCarouselCollectionViewFlowLayout', :path => '../'
+
+  target 'DPCarouselCollectionViewFlowLayout_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
