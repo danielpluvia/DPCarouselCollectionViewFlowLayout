@@ -209,10 +209,12 @@
 				TargetAttributes = {
 					607FACCF1AFB9204008FA782 = {
 						CreatedOnToolsVersion = 6.3.1;
+						DevelopmentTeam = CC8LGG6TEP;
 						LastSwiftMigration = 1010;
 					};
 					607FACE41AFB9204008FA782 = {
 						CreatedOnToolsVersion = 6.3.1;
+						DevelopmentTeam = CC8LGG6TEP;
 						LastSwiftMigration = 1010;
 						TestTargetID = 607FACCF1AFB9204008FA782;
 					};
@@ -473,10 +475,11 @@
 			baseConfigurationReference = 24F9CB156CFB5DBC7FFC1865 /* Pods-DPCarouselCollectionViewFlowLayout_Example.debug.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = CC8LGG6TEP;
 				INFOPLIST_FILE = DPCarouselCollectionViewFlowLayout/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				MODULE_NAME = ExampleApp;
-				PRODUCT_BUNDLE_IDENTIFIER = "org.cocoapods.demo.DPCarouselCollectionViewFlowLayout-Example.needtochange";
+				PRODUCT_BUNDLE_IDENTIFIER = "org.cocoapods.demo.DPCarouselCollectionViewFlowLayout-Example";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 4.2;
 			};
@@ -487,10 +490,11 @@
 			baseConfigurationReference = 3E4A689716DF21D028934991 /* Pods-DPCarouselCollectionViewFlowLayout_Example.release.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = CC8LGG6TEP;
 				INFOPLIST_FILE = DPCarouselCollectionViewFlowLayout/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				MODULE_NAME = ExampleApp;
-				PRODUCT_BUNDLE_IDENTIFIER = "org.cocoapods.demo.DPCarouselCollectionViewFlowLayout-Example.needtochange";
+				PRODUCT_BUNDLE_IDENTIFIER = "org.cocoapods.demo.DPCarouselCollectionViewFlowLayout-Example";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 4.2;
 			};
@@ -500,6 +504,7 @@
 			isa = XCBuildConfiguration;
 			baseConfigurationReference = 741BEBEDEA6D5D7B676DAAD0 /* Pods-DPCarouselCollectionViewFlowLayout_Tests.debug.xcconfig */;
 			buildSettings = {
+				DEVELOPMENT_TEAM = CC8LGG6TEP;
 				FRAMEWORK_SEARCH_PATHS = "$(inherited)";
 				GCC_PREPROCESSOR_DEFINITIONS = (
 					"DEBUG=1",
@@ -518,6 +523,7 @@
 			isa = XCBuildConfiguration;
 			baseConfigurationReference = 4CA430022887B8DF8C75CFBB /* Pods-DPCarouselCollectionViewFlowLayout_Tests.release.xcconfig */;
 			buildSettings = {
+				DEVELOPMENT_TEAM = CC8LGG6TEP;
 				FRAMEWORK_SEARCH_PATHS = "$(inherited)";
 				INFOPLIST_FILE = Tests/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";

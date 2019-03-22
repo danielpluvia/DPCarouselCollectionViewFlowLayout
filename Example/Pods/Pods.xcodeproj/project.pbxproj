@@ -10,7 +10,6 @@
 		05066372814B779CFA3E202DFE399AD9 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = CB4607EFCA7C5F75397649E792E2AFCB /* Foundation.framework */; };
 		196AE7F0C5FC297AA98082DA53848767 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = CB4607EFCA7C5F75397649E792E2AFCB /* Foundation.framework */; };
 		1C160781D344BCA45F498A9EBE584118 /* DPCarouselCollectionViewFlowLayout-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = 869EFD69C922C845D7BFB91F0B47D2AE /* DPCarouselCollectionViewFlowLayout-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		3D0AE0A28FF6BAE79F8A083E99CC6168 /* ReplaceMe.swift in Sources */ = {isa = PBXBuildFile; fileRef = E38CB2FE2BD09A84FE23EBAE59BB96DC /* ReplaceMe.swift */; };
 		65E1969B223FDBF3004EC6A0 /* DPCarouselCvFlowLayout.swift in Sources */ = {isa = PBXBuildFile; fileRef = 65E1969A223FDBF3004EC6A0 /* DPCarouselCvFlowLayout.swift */; };
 		83B05EFD76CBBDAD5A4360022FAB115A /* Pods-DPCarouselCollectionViewFlowLayout_Tests-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = 7F1BF35FE07A084FBC36AFC3601ED0A8 /* Pods-DPCarouselCollectionViewFlowLayout_Tests-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		A4DBA5A9AFE46EB6284AD9A8A1666CC5 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = CB4607EFCA7C5F75397649E792E2AFCB /* Foundation.framework */; };
@@ -66,7 +65,6 @@
 		DDE1C832EBD51A7189BAF8016867EEB6 /* Pods-DPCarouselCollectionViewFlowLayout_Example-frameworks.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-DPCarouselCollectionViewFlowLayout_Example-frameworks.sh"; sourceTree = "<group>"; };
 		E0E6001E41456763BB32C185D9FC5B01 /* Pods-DPCarouselCollectionViewFlowLayout_Example-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-DPCarouselCollectionViewFlowLayout_Example-Info.plist"; sourceTree = "<group>"; };
 		E21C95887C0AF965745A3B011D4781B3 /* Pods-DPCarouselCollectionViewFlowLayout_Example-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-DPCarouselCollectionViewFlowLayout_Example-acknowledgements.markdown"; sourceTree = "<group>"; };
-		E38CB2FE2BD09A84FE23EBAE59BB96DC /* ReplaceMe.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = ReplaceMe.swift; path = DPCarouselCollectionViewFlowLayout/Classes/ReplaceMe.swift; sourceTree = "<group>"; };
 		EEFD2542E6E464DE2C83532A13ADAF50 /* Pods-DPCarouselCollectionViewFlowLayout_Tests-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-DPCarouselCollectionViewFlowLayout_Tests-Info.plist"; sourceTree = "<group>"; };
 		F36C8C326522D9CB61F20ECD2C923F49 /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = LICENSE; sourceTree = "<group>"; };
 		F9BE81B91F65D203DD4F22594649E6A2 /* Pods_DPCarouselCollectionViewFlowLayout_Tests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_DPCarouselCollectionViewFlowLayout_Tests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -137,7 +135,6 @@
 		5D045B1AD10E0B4ABD4E290312C5D7A9 /* DPCarouselCollectionViewFlowLayout */ = {
 			isa = PBXGroup;
 			children = (
-				E38CB2FE2BD09A84FE23EBAE59BB96DC /* ReplaceMe.swift */,
 				65E1969A223FDBF3004EC6A0 /* DPCarouselCvFlowLayout.swift */,
 				705D72018752F003681203DC98EEBB4E /* Pod */,
 				EF6A516FCD44A723C0422B1D30BC8FAD /* Support Files */,
@@ -390,7 +387,6 @@
 			files = (
 				CF9ADC67AD4774CB8EFFC79A0E671DCA /* DPCarouselCollectionViewFlowLayout-dummy.m in Sources */,
 				65E1969B223FDBF3004EC6A0 /* DPCarouselCvFlowLayout.swift in Sources */,
-				3D0AE0A28FF6BAE79F8A083E99CC6168 /* ReplaceMe.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
